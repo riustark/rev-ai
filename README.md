@@ -726,32 +726,7 @@ The LLM should receive relevant repository context rather than unnecessary sourc
 
 ---
 
-# 🔮 Future Roadmap
 
-Potential future improvements include:
-
-* [ ] Multi-repository indexing
-* [ ] Incremental repository indexing
-* [ ] GitHub webhook-based re-indexing
-* [ ] Background indexing workers
-* [ ] Repository-level access control
-* [ ] User authentication and authorization
-* [ ] Conversation history
-* [ ] Streaming LLM responses
-* [ ] Code-aware chunking using ASTs
-* [ ] Hybrid keyword + vector retrieval
-* [ ] Reranking
-* [ ] Advanced metadata filtering
-* [ ] Dependency graph analysis
-* [ ] Code summarization
-* [ ] Architecture diagram generation
-* [ ] Pull request analysis
-* [ ] Code change impact analysis
-* [ ] Multi-language repository support
-* [ ] Production observability
-* [ ] Distributed deployment
-
----
 
 # 🔐 Security Considerations
 
